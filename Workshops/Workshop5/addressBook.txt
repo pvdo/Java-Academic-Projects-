@@ -1,0 +1,6 @@
+First Name: Doug        /Last Name: Ford        /City: Ottawa      /Province: ON          /Postal Code: M4a4s2
+First Name: Justin      /Last Name: Trudeau     /City: Ottawa      /Province: ON          /Postal Code: M3A3YA
+First Name: John        /Last Name: Something   /City: London      /Province: ON          /Postal Code: R2C1V4
+First Name: John        /Last Name: Snow        /City: Edmonton    /Province: AB          /Postal Code: M4a4s2
+First Name: Cerci       /Last Name: Lanister    /City: Vancouver   /Province: BC          /Postal Code: M4a4s2
+First Name: Tes         /Last Name: Tes         /City: Te          /Province: QC          /Postal Code: R4T5A1
